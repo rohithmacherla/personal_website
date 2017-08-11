@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(35deg, #ffcccc, #ccffff);
+    height: 100vh;
+    width: 100vw;
+}
+.wrap {
+    background-color: white;
+    height: 100px;
+}
