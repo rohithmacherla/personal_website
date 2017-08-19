@@ -5,5 +5,21 @@ body {
 }
 .wrap {
     background-color: white;
-    height: 100px;
+    height: 95%;
+    width: 95%;
+    text-align: center;
+    margin: 0 auto;
+}
+.title {
+    border: 2px solid black;
+    box-sizing: border-box;
+    height: 10%;
+    font-size: 30px;
+    border-radius: 5%;
+}
+.about {
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 25%;
+    margin-top: 10px;
 }
